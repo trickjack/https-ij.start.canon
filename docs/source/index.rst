@@ -5,6 +5,8 @@ To set up a wireless Canon printer using **ij.start.canon** **[Dial +1-801-878-6
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
 
+**[Dial +1-801-878-6858 USA]**
+
 How Do I Set Up a Wireless Printer with IJ Start Canon Connect?
 ---------------------------------------------------------------
 
