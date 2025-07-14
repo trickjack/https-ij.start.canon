@@ -91,4 +91,4 @@ Your Canon wireless printer can connect to several devices on the same network, 
 Conclusion
 ----------
 
-Setting up your Canon wireless printer through **ij.start.canon** is a simple, step-by-step process. From unboxing and connecting to Wi-Fi, to downloading drivers and troubleshooting, everything can be managed smoothly via Canon’s official platform. Once connected, enjoy hassle-free wireless printing from any device in your network.
+Setting up your Canon wireless printer through **ij.start.canon** is a simple, step-by-step process. From unboxing and connecting to Wi-Fi, to downloading drivers and troubleshooting, everything can be managed smoothly via Canon’s official platform. Once connected, enjoy hassle-free wireless printing from any device in your network
